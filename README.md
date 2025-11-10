@@ -20,7 +20,7 @@ Uygulamada bir hata fark ettiyseniz, geri bildirimde bulunmak veya yeni özellik
 🧹 Veri Silme Talebi
 
 Kayıtlı hesabınızı veya analiz geçmişinizi silmek istiyorsanız,
-lütfen “Veri Silme Talebi” başlığıyla birlikte humairapp@gmail.com
+lütfen “Veri Silme Talebi” başlığıyla birlikte sahancansarki@gmail.com
  adresine e-posta gönderin.
 Talebiniz en geç 48 saat içinde işleme alınacaktır.
 
