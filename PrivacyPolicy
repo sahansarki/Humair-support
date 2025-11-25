@@ -1,0 +1,136 @@
+Gizlilik Politikası – HumAIr
+
+Son Güncelleme: Kasım 2025
+Uygulama: HumAIr
+
+Bu Gizlilik Politikası, HumAIr uygulamasının (“Uygulama”) kişisel verilerinizi nasıl topladığını, kullandığını ve koruduğunu açıklar.
+
+Uygulamayı kullanarak bu politikayı kabul etmiş olursunuz.
+
+1. Topladığımız Bilgiler
+1.1 Hesap Bilgileri
+
+Hesap oluşturduğunuzda şu bilgiler toplanır:
+
+E-posta adresi
+
+Şifre (hash’lenmiş; düz metin saklanmaz)
+
+Hesap oluşturma tarihi
+
+Kredi bakiyesi
+
+Satın alma geçmişi (RevenueCat üzerinden)
+
+1.2 Yüklenen Sohbet Dosyaları (Chat Export)
+
+HumAIr, WhatsApp gibi uygulamalardan dışa aktardığınız .txt sohbet dosyasını yüklemenize olanak tanır.
+
+Bu dosyalar:
+
+Sadece analiz yapmak için geçici olarak sunucuya gönderilir
+
+İşlem tamamlandıktan hemen sonra tamamen silinir
+
+Uzun süreli veya kalıcı olarak saklanmaz
+
+Başka kullanıcılarla, üçüncü taraflarla veya geliştiriciyle paylaşılmaz
+
+Sohbet dosyası içeriği yalnızca AI analizi üretmek için kullanılır, bunun dışında hiçbir amaç için işlenmez.
+
+2. Verilerin Cihazda Saklanması
+
+Yüklediğiniz sohbet dosyaları telefonunuzda yerel olarak saklanır
+
+Sunucu tarafında sohbet geçmişinizin hiçbir kopyası tutulmaz
+
+Kullanıcı sohbet verileri cihazınızdan silinmedikçe biz erişemeyiz
+
+Uygulama sohbetlerinize uzaktan erişim sağlamaz
+
+Bu, HumAIr’ın “lokal gizliliğe öncelik veren” bir tasarıma sahip olması anlamına gelir.
+
+3. Verilerin Sunucuda Nasıl İşlendiği
+
+Sunucu tarafında yalnızca şu gerçekleşir:
+
+.txt dosyası gönderilir
+
+Dosya analiz için AI modeline iletilir
+
+AI sonucu üretilir ve uygulamaya geri gönderilir
+
+Dosya sunucudan derhal silinir
+
+Hiçbir sohbet verisi:
+
+Depolanmaz
+
+Yedeklenmez
+
+Arşivlenmez
+
+Üçüncü taraflara aktarılmaz
+
+Hizmet iyileştirme amacıyla bile kullanılmaz
+
+4. Yapay Zekâ İşleme Süreci
+
+Analizler Google Gemini API kullanılarak oluşturulur.
+
+Gemini’ye yalnızca gerekli metin parçaları gönderilir.
+Kişisel kimlik bilgileri (e-posta, cihaz bilgisi vb.) gönderilmez.
+
+Gemini’nin bu verileri model eğitimi için kullanmadığını Google’ın kendi politikaları belirtmektedir.
+
+Tüm analizler eğlence amaçlıdır.
+
+5. Üçüncü Taraf Hizmetler
+
+HumAIr aşağıdaki hizmetleri kullanır:
+
+Supabase – Hesap verileri ve kimlik doğrulama
+https://supabase.com/privacy
+
+Google Gemini – AI analizi
+https://ai.google.dev/privacy
+
+RevenueCat – Uygulama içi satış & kredi yönetimi
+https://www.revenuecat.com/privacy
+
+DigitalOcean – Sunucu altyapısı (geçici dosya işleme)
+https://www.digitalocean.com/legal/privacy-policy
+
+Bu hizmetler sohbet dosyalarınızı saklamaz.
+
+6. Veri Saklama Süresi
+
+Hesap verileri → hesap silinene kadar saklanır
+
+Chat dosyaları → analizden sonra anında silinir
+
+Loglar → kısa süreli tutulabilir (chat içermez)
+
+Kredi & ödeme kayıtları → App Store/Google Play tarafından saklanır
+
+7. Veri Silme Hakkı
+
+Tüm verilerinizin silinmesini şu yollarla talep edebilirsiniz:
+
+Uygulama içindeki “Hesabı Sil” özelliğini kullanarak
+
+humairapp@gmail.com
+ adresine e-posta göndererek
+
+Silme talebinde:
+
+Hesabınız silinir
+
+Sunucuda size ait hiçbir sohbet verisi kalmaz
+
+Kişisel bilgileriniz 30 gün içinde tamamen kaldırılır.
+
+8. İletişim
+
+Her türlü gizlilik sorusu için:
+📧 sahancansarki@gmail.com
