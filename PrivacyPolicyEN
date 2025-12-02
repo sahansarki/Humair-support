@@ -1,0 +1,114 @@
+Privacy Policy – HumAIr
+
+Last Updated: November 2025
+Application: HumAIr
+
+This Privacy Policy explains how the HumAIr application (“App”) collects, uses, and protects your personal data.
+
+By using the App, you agree to this Privacy Policy.
+
+1. Information We Collect
+
+1.1 Account Information
+
+When you create an account, the following information is collected:
+
+- Email address  
+- Password (hashed only; never stored as plain text)  
+- Account creation date  
+- Credit balance  
+- Purchase history (via RevenueCat)
+
+1.2 Uploaded Chat Files (Chat Export)
+
+HumAIr allows you to upload exported .txt chat files from applications such as WhatsApp.
+
+These files are:
+
+- Temporarily transmitted to the server solely for analysis  
+- Permanently deleted immediately after processing  
+- Never stored long-term or retained by us  
+- Never shared with other users, third parties, or the developer
+
+Chat file content is used exclusively to generate AI analysis and is not processed for any other purpose.
+
+2. On-Device Data Storage
+
+- Uploaded chat files are stored locally on your device
+- No copies of your chat data are kept on our servers
+- We cannot access your chat data unless it remains on your device
+- The App does not provide any remote access to your chat history
+
+HumAIr is designed with a “privacy-first local processing” approach.
+
+3. Server-Side Processing
+
+On our servers, the following steps occur:
+
+- The .txt file is received
+- The file is forwarded to the AI service for analysis
+- The AI result is generated and returned to the App
+- The uploaded file is immediately deleted
+
+No chat data is:
+
+- Stored  
+- Backed up  
+- Archived  
+- Transferred to third parties  
+- Used for service improvement or training
+
+4. AI Processing
+
+AI analysis is generated using the Google Gemini API.
+
+Only the necessary text segments are sent to Gemini.
+No personally identifiable information (email, device data, etc.) is transmitted.
+
+According to Google’s policies, submitted content is not used to train their models.
+
+All analyses are for entertainment purposes only.
+
+5. Third-Party Services
+
+HumAIr uses the following providers:
+
+- Supabase – Account data & authentication  
+  https://supabase.com/privacy
+
+- Google Gemini – AI text analysis  
+  https://ai.google.dev/privacy
+
+- RevenueCat – In-app purchases and credit management  
+  https://www.revenuecat.com/privacy
+
+- DigitalOcean – Server infrastructure and temporary file handling  
+  https://www.digitalocean.com/legal/privacy-policy
+
+These services do not store your chat files.
+
+6. Data Retention
+
+- Account data → retained until account deletion
+- Chat files → deleted immediately after analysis
+- Logs → retained for a limited time (does not include chat data)
+- Payment and credit records → stored by Apple App Store / Google Play
+
+7. Data Deletion Requests
+
+You may request deletion of your data via:
+
+- Using the “Delete Account” feature in the App
+- Sending an email to: humairapp@gmail.com
+
+Upon deletion request:
+
+- Your account will be removed  
+- No chat data remains on our servers  
+- Personal information will be permanently erased within 30 days
+
+8. Contact
+
+For all privacy-related questions:
+
+📧 sahancansarki@gmail.com
