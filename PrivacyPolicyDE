@@ -1,0 +1,114 @@
+Datenschutzerklärung – HumAIr
+
+Letzte Aktualisierung: November 2025
+Anwendung: HumAIr
+
+Diese Datenschutzerklärung beschreibt, wie die HumAIr-App („App“) Ihre personenbezogenen Daten erhebt, verwendet und schützt.
+
+Durch die Nutzung der App stimmen Sie dieser Datenschutzerklärung zu.
+
+1. Erhobene Informationen
+
+1.1 Kontodaten
+
+Bei der Erstellung eines Kontos werden folgende Daten erhoben:
+
+- E-Mail-Adresse  
+- Passwort (verschlüsselt gespeichert, niemals im Klartext)  
+- Konto-Erstellungsdatum  
+- Guthaben an Analyse-Credits  
+- Kaufhistorie (über RevenueCat)
+
+1.2 Hochgeladene Chat-Dateien
+
+HumAIr ermöglicht das Hochladen von aus Anwendungen wie WhatsApp exportierten .txt-Chats.
+
+Diese Dateien werden:
+
+- Ausschließlich temporär zur Analyse auf den Server übertragen  
+- Unmittelbar nach Abschluss der Verarbeitung vollständig gelöscht  
+- Nicht dauerhaft gespeichert oder aufbewahrt  
+- Niemals mit Dritten, anderen Nutzern oder dem Entwickler geteilt
+
+Der Inhalt der Chat-Dateien wird ausschließlich zur Erstellung von KI-Analysen verwendet und zu keinem anderen Zweck verarbeitet.
+
+2. Lokale Datenspeicherung
+
+- Chat-Dateien werden ausschließlich lokal auf Ihrem Gerät gespeichert  
+- Auf den Servern werden keinerlei Kopien Ihrer Chats hinterlegt  
+- Ohne Zugriff auf Ihr Gerät können wir keine Chatdaten einsehen  
+- Die App ermöglicht keinerlei Fernzugriff auf Chatverläufe
+
+HumAIr verfolgt ein striktes „Privacy-First“-Designprinzip.
+
+3. Serverseitige Verarbeitung
+
+Die Verarbeitung auf den Servern erfolgt ausschließlich wie folgt:
+
+- Empfang der .txt-Datei  
+- Weiterleitung an den KI-Dienst zur Analyse  
+- Erstellung des Analyseergebnisses  
+- Unmittelbare vollständige Löschung der Datei
+
+Keine Chatdaten werden:
+
+- Gespeichert  
+- Gesichert  
+- Archiviert  
+- An Dritte weitergegeben  
+- Für Training oder Serviceverbesserungen verwendet
+
+4. KI-Verarbeitung
+
+Die Analysen werden über die Google Gemini API erstellt.
+
+Es werden ausschließlich notwendige Textbestandteile übermittelt.
+Es werden keinerlei personenbezogene Daten (E-Mail-Adresse, Gerätedaten usw.) weitergegeben.
+
+Laut den Datenschutzrichtlinien von Google werden diese Inhalte nicht zum Training von Modellen verwendet.
+
+Alle Analysen dienen ausschließlich Unterhaltungszwecken.
+
+5. Drittanbieter-Dienste
+
+HumAIr verwendet:
+
+- Supabase – Kontodaten & Authentifizierung  
+  https://supabase.com/privacy
+
+- Google Gemini – KI-Analyse  
+  https://ai.google.dev/privacy
+
+- RevenueCat – In-App-Käufe & Credit-Verwaltung  
+  https://www.revenuecat.com/privacy
+
+- DigitalOcean – Serverinfrastruktur (temporäre Verarbeitung)  
+  https://www.digitalocean.com/legal/privacy-policy
+
+Diese Anbieter speichern keine Chat-Dateien.
+
+6. Aufbewahrungsdauer
+
+- Kontodaten → bis zur Kontolöschung gespeichert
+- Chat-Dateien → sofortige Löschung nach Abschluss der Analyse
+- Logs → kurzfristige Speicherung (ohne Chatinhalte)
+- Zahlungsdaten → Speicherung durch Apple App Store / Google Play
+
+7. Recht auf Löschung
+
+Sie können jederzeit die vollständige Löschung Ihrer Daten anfordern:
+
+- Über die Funktion „Konto löschen“ in der App
+- Per E-Mail an: humairapp@gmail.com
+
+Nach der Löschanfrage:
+
+- Wird Ihr Konto gelöscht  
+- Verbleiben keinerlei Chatdaten auf unseren Servern  
+- Werden Ihre personenbezogenen Daten innerhalb von 30 Tagen vollständig entfernt
+
+8. Kontakt
+
+Bei Fragen zum Datenschutz wenden Sie sich an:
+
+📧 sahancansarki@gmail.com
